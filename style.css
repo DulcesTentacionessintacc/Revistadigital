@@ -18,11 +18,11 @@
 
 .swiper{
     width: 100%;
-    height: 1935px;
+    height: 100%;
 }
 .swiper-slide img {
     width: 100%;
-    height: 1935px;
+    height: 100%;
 }
 
 .swiper .swiper-button-next, .swiper .swiper-button-prev{
